@@ -1,0 +1,13 @@
+5
+1 13 0
+3 1 0
+3 28 0
+4 19 0
+4 33 0
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+             +                         x
+xxxxxxx x xxxxxxxxxxxxxxxxxxxxxxxxx    x
+x+      x       xxxx        +     x    x
+x    xxx           +             +x    x
+x        xxxxxxxxxxxxxxxxxxxxxxxxxx   Sx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

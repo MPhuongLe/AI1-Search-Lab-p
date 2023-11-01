@@ -1,0 +1,8 @@
+0
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        c                       a      x
+xxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx    x
+x      bx      axxxx             cx    x
+x    xxxx                              x
+x        xxxxxxxxxxxxxxxxxxxxxxxxx   bSx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
